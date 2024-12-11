@@ -1,2 +1,2 @@
 # nagaraja
-this AWS Devops practice
+This is AWS Devops practice
